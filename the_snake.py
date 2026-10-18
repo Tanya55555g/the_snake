@@ -4,7 +4,7 @@
 Столкновение с собой сбрасывает игру. Сквозь стены змейка проходит.
 """
 
-from random import choice, randint
+from random import randint
 
 import pygame
 
@@ -230,3 +230,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
